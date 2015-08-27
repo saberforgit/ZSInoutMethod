@@ -1,0 +1,12 @@
+{
+	modules:[
+		{
+		    name:'ZSInputMethod',
+		    class:'com.apicloud.moduleDemo.ZSInputMethod'
+		},
+		{
+		    name:'listener',
+		    class:'com.apicloud.eventdemo.EasDelegate'
+		}
+	]
+}
